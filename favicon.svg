@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PIXELBOOMERS">
+  <rect width="64" height="64" fill="#f5f4f0"/>
+  <g fill="#0a0a0a">
+    <rect x="2" y="30" width="4" height="4"/>
+    <rect x="8" y="30" width="4" height="4"/>
+    <rect x="14" y="28" width="8" height="8"/>
+    <rect x="24" y="30" width="4" height="4"/>
+    <rect x="30" y="30" width="4" height="4"/>
+    <rect x="36" y="30" width="4" height="4"/>
+    <rect x="42" y="28" width="8" height="8"/>
+    <rect x="52" y="30" width="4" height="4"/>
+    <rect x="58" y="30" width="4" height="4"/>
+  </g>
+</svg>
